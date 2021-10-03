@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Secure Login</string>
+    <string name="login">Login</string>
+    <string name="failed_attempts">Failed Attempts:</string>
+    <string name="welcome">Welcome!</string>
+    <string name="you_have_successfully_logged_in">You have successfully logged in.</string>
+    <string name="prompt_info_title">Secure Login Authentication</string>
+    <string name="prompt_info_subtitle">Please login to get access</string>
+    <string name="prompt_info_description">Secure Login is using Android biometric authentication</string>
+    <string name="fingerprint">Fingerprint</string>
+    <string name="cancel">Cancel</string>
+    <string name="biometric_title">Secure Biometric Login</string>
+    <string name="biometric_subtitle">Log in using your biometric credential</string>
+    <string name="checkmark">Checkmark</string>
+    <string name="error">Error</string>
+    <string name="failed_attempts_key">failed_attempts_key</string>
+    <string name="shared_pref_filename">login_app_shared_pref</string>
+</resources>
